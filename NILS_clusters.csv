@@ -1,89 +1,89 @@
-NIL,Group_JJI,Group_AMPI,Group_JJIAMPI
-DUOMO,Medium-low,Medium-high,Medium-low
-BRERA,Medium-high,Medium-high,Medium-low
-GIARDINI PORTA VENEZIA,Outlier,Outlier,Outlier
-GUASTALLA,Medium-low,Medium-high,Medium-low
-VIGENTINA,Medium-low,Medium-high,Medium-low
-TICINESE,Medium-low,Medium-low,Low
-MAGENTA - S. VITTORE,Medium-high,Medium-high,Medium-low
-PARCO SEMPIONE,Outlier,Outlier,Outlier
-GARIBALDI REPUBBLICA,High,High,High
-CENTRALE,High,Medium-high,Medium-high
-ISOLA,High,Medium-high,Medium-high
-MACIACHINI - MAGGIOLINA,Medium-high,Medium-low,Medium-low
-GRECO,Low,Low,Low
-NIGUARDA - CA' GRANDA,Medium-low,Low,Low
-BICOCCA,Medium-high,Medium-low,Medium-low
-VIALE MONZA,Medium-low,Medium-low,Low
-ADRIANO,Low,Low,Low
-PARCO LAMBRO - CIMIANO,Low,Medium-low,Low
-PADOVA,Low,Low,Low
-LORETO,Low,Low,Low
-BUENOS AIRES - VENEZIA,Medium-high,Medium-low,Medium-low
-CITTA' STUDI,High,Medium-low,Medium-high
-LAMBRATE,Low,Low,Low
-PARCO FORLANINI - ORTICA,Low,Low,Low
-CORSICA,Low,Medium-low,Low
-XXII MARZO,Medium-low,Medium-low,Low
-PORTA ROMANA,High,Medium-high,Medium-high
-UMBRIA - MOLISE,Low,Medium-low,Low
-ORTOMERCATO,Low,High,High
-MECENATE,Low,Low,Low
-PARCO MONLUE' - PONTE LAMBRO,Low,Low,Low
-TRIULZO SUPERIORE,Low,High,High
-ROGOREDO,Low,Low,Low
-CHIARAVALLE,Low,Low,Low
-LODI - CORVETTO,Medium-low,Medium-low,Low
-SCALO ROMANA,Medium-low,Medium-low,Low
-EX OM - MORIVIONE,Low,Low,Low
-RIPAMONTI,Low,Low,Low
-QUINTOSOLE,Outlier,Outlier,Outlier
-RONCHETTO DELLE RANE,Low,Low,Low
-GRATOSOGLIO - TICINELLO,Low,Low,Low
-STADERA,Low,Low,Low
-TIBALDI,Low,Low,Low
-NAVIGLI,High,Medium-high,Medium-high
-S. CRISTOFORO,Low,Low,Low
-BARONA,Low,Medium-low,Low
-CANTALUPA,Outlier,Outlier,Outlier
-RONCHETTO SUL NAVIGLIO,Low,Low,Low
-GIAMBELLINO,Low,Low,Low
-TORTONA,Medium-low,Medium-low,Low
-WASHINGTON,Medium-low,Medium-low,Low
-BANDE NERE,Low,Medium-low,Low
-LORENTEGGIO,Low,Medium-low,Low
-MUGGIANO,Low,Low,Low
-BAGGIO,Low,Low,Low
-FORZE ARMATE,Low,Low,Low
-SELINUNTE,Low,Low,Low
-DE ANGELI - MONTE ROSA,Medium-low,Medium-high,Medium-low
-TRE TORRI,Medium-high,High,High
-S. SIRO,Low,Medium-low,Low
-QUARTO CAGNINO,Low,Low,Low
-QUINTO ROMANO,Low,Low,Low
-FIGINO,Low,Low,Low
-TRENNO,Low,Low,Low
-GALLARATESE,Low,Low,Low
-QT 8,Medium-low,High,High
-PORTELLO,High,Medium-high,Medium-high
-PAGANO,Medium-high,Medium-low,Medium-low
-SARPI,Medium-low,Low,Low
-GHISOLFA,Medium-high,Medium-low,Medium-low
-VILLAPIZZONE,Medium-low,Low,Low
-MAGGIORE - MUSOCCO,Low,Low,Low
-CASCINA TRIULZA - EXPO,Low,Low,Low
-SACCO,Low,Low,Low
-STEPHENSON,Outlier,Outlier,Outlier
-QUARTO OGGIARO,Low,Low,Low
-BOVISA,Medium-high,Medium-high,Medium-low
-FARINI,Medium-high,High,High
-DERGANO,Medium-high,Medium-low,Medium-low
-AFFORI,Low,Low,Low
-BOVISASCA,Low,Low,Low
-COMASINA,Low,Low,Low
-BRUZZANO,Low,Low,Low
-PARCO NORD,Low,Low,Low
-PARCO DELLE ABBAZIE,Low,Low,Low
-PARCO DEI NAVIGLI,Outlier,Outlier,Outlier
-PARCO AGRICOLO SUD,Outlier,Outlier,Outlier
-PARCO BOSCO IN CITT,Low,Low,Low
+IdNIL,NIL,Group_JJI,Group_AMPI,Group_JJIAMPI
+74,SACCO,Low,Low,Low
+82,COMASINA,Low,Low,Low
+75,STEPHENSON,Outlier,Outlier,Outlier
+66,QT 8,Medium-low,High,High
+29,ORTOMERCATO,Low,High,High
+72,MAGGIORE - MUSOCCO,Low,Low,Low
+18,PARCO LAMBRO - CIMIANO,Low,Medium-low,Low
+65,GALLARATESE,Low,Low,Low
+60,S. SIRO,Low,Medium-low,Low
+70,GHISOLFA,Medium-high,Medium-low,Medium-low
+55,BAGGIO,Low,Low,Low
+61,QUARTO CAGNINO,Low,Low,Low
+53,LORENTEGGIO,Low,Medium-low,Low
+49,GIAMBELLINO,Low,Low,Low
+45,S. CRISTOFORO,Low,Low,Low
+48,RONCHETTO SUL NAVIGLIO,Low,Low,Low
+43,TIBALDI,Low,Low,Low
+73,CASCINA TRIULZA - EXPO,Low,Low,Low
+76,QUARTO OGGIARO,Low,Low,Low
+80,AFFORI,Low,Low,Low
+19,PADOVA,Low,Low,Low
+37,EX OM - MORIVIONE,Low,Low,Low
+17,ADRIANO,Low,Low,Low
+78,FARINI,Medium-high,High,High
+28,UMBRIA - MOLISE,Low,Medium-low,Low
+32,TRIULZO SUPERIORE,Low,High,High
+25,CORSICA,Low,Medium-low,Low
+22,CITTA' STUDI,High,Medium-low,Medium-high
+57,SELINUNTE,Low,Low,Low
+31,PARCO MONLUE' - PONTE LAMBRO,Low,Low,Low
+14,NIGUARDA - CA' GRANDA,Medium-low,Low,Low
+42,STADERA,Low,Low,Low
+4,GUASTALLA,Medium-low,Medium-high,Medium-low
+2,BRERA,Medium-high,Medium-high,Medium-low
+1,DUOMO,Medium-low,Medium-high,Medium-low
+36,SCALO ROMANA,Medium-low,Medium-low,Low
+7,MAGENTA - S. VITTORE,Medium-high,Medium-high,Medium-low
+81,BOVISASCA,Low,Low,Low
+35,LODI - CORVETTO,Medium-low,Medium-low,Low
+23,LAMBRATE,Low,Low,Low
+46,BARONA,Low,Medium-low,Low
+83,BRUZZANO,Low,Low,Low
+64,TRENNO,Low,Low,Low
+41,GRATOSOGLIO - TICINELLO,Low,Low,Low
+63,FIGINO,Low,Low,Low
+62,QUINTO ROMANO,Low,Low,Low
+87,PARCO AGRICOLO SUD,Outlier,Outlier,Outlier
+71,VILLAPIZZONE,Medium-low,Low,Low
+77,BOVISA,Medium-high,Medium-high,Medium-low
+79,DERGANO,Medium-high,Medium-low,Medium-low
+84,PARCO NORD,Low,Low,Low
+15,BICOCCA,Medium-high,Medium-low,Medium-low
+54,MUGGIANO,Low,Low,Low
+67,PORTELLO,High,Medium-high,Medium-high
+59,TRE TORRI,Medium-high,High,High
+8,PARCO SEMPIONE,Outlier,Outlier,Outlier
+3,GIARDINI PORTA VENEZIA,Outlier,Outlier,Outlier
+50,TORTONA,Medium-low,Medium-low,Low
+44,NAVIGLI,High,Medium-high,Medium-high
+26,XXII MARZO,Medium-low,Medium-low,Low
+21,BUENOS AIRES - VENEZIA,Medium-high,Medium-low,Medium-low
+39,QUINTOSOLE,Outlier,Outlier,Outlier
+40,RONCHETTO DELLE RANE,Low,Low,Low
+34,CHIARAVALLE,Low,Low,Low
+85,PARCO DELLE ABBAZIE,Low,Low,Low
+33,ROGOREDO,Low,Low,Low
+30,MECENATE,Low,Low,Low
+38,RIPAMONTI,Low,Low,Low
+16,VIALE MONZA,Medium-low,Medium-low,Low
+10,CENTRALE,High,Medium-high,Medium-high
+13,GRECO,Low,Low,Low
+20,LORETO,Low,Low,Low
+24,PARCO FORLANINI - ORTICA,Low,Low,Low
+12,MACIACHINI - MAGGIOLINA,Medium-high,Medium-low,Medium-low
+11,ISOLA,High,Medium-high,Medium-high
+69,SARPI,Medium-low,Low,Low
+58,DE ANGELI - MONTE ROSA,Medium-low,Medium-high,Medium-low
+51,WASHINGTON,Medium-low,Medium-low,Low
+52,BANDE NERE,Low,Medium-low,Low
+56,FORZE ARMATE,Low,Low,Low
+88,PARCO BOSCO IN CITT,Low,Low,Low
+27,PORTA ROMANA,High,Medium-high,Medium-high
+5,VIGENTINA,Medium-low,Medium-high,Medium-low
+6,TICINESE,Medium-low,Medium-low,Low
+47,CANTALUPA,Outlier,Outlier,Outlier
+86,PARCO DEI NAVIGLI,Outlier,Outlier,Outlier
+68,PAGANO,Medium-high,Medium-low,Medium-low
+9,GARIBALDI REPUBBLICA,High,High,High

@@ -201,10 +201,10 @@ Quartieri_cluster_df <- Quartieri_cluster
 st_geometry(Quartieri_cluster_df) <- NULL
 
 library(xtable)
+write_csv(x = Quartieri_cluster_df, file = "NILS_clusters.csv", col_names = T)
 Quartieri_cluster_df <- Quartieri_cluster_df %>%
   arrange(IdNIL) %>%
   select(-c(IdNIL))
-write_csv(x = Quartieri_cluster_df, file = "NILS_clusters.csv", col_names = T)
 Cluster_grp <- xtable(Quartieri_cluster_df,
                       caption = paste0("Cluster results using Jevons only, AMPI only and Jevons+AMPI, respectively"), 
                       align=c("l","l","c","c","c"))
